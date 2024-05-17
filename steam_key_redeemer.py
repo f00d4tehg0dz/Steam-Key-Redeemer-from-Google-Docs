@@ -260,7 +260,7 @@ def cls():
     print_main_header()
 
 def print_main_header():
-    print("==Steam Key Manager===")
+    print("===Steam Key Manager===")
     print("----------------------")
 
 def start_flask():
