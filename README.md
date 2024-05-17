@@ -8,6 +8,23 @@ The script automates the login process to Steam, making the entire process seaml
 
 Any keys redeemed by the script are recorded in spreadsheet files, allowing you to review which actions were taken, and whether keys were redeemed, skipped, or failed.
 
+
+## Supported Google Doc formats 
+Examples of types document formats it can parse and extract from. Excludes dates by default. (There may be more it can handle, I just don't have examples)
+
+**5/17/2024**
+1) The Escapists 2
+   1) XXXX-XXXX-XXXX
+2) Golf With Your Friends
+   1) XXXX-XXXX-XXXX
+3) Moving Out
+   1) XXXX-XXXX-XXXX
+
+**5/16/2024**
+1) 9 Years of Shadows XXXX-XXXX-XXXX
+2) Axiom Verge 2 XXXX-XXXX-XXXX
+3) Cookie Cutter XXXX-XXXX-XXXX
+
 ## To Run the Program
 ### Dependencies
 - Requires Python version 3.8 or above.
